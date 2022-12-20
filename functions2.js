@@ -162,5 +162,6 @@ function average(a,b){
     for (let i = 0; i < a.length; i++) {
         sum += a[i].rating;
         average = sum / a.length;   
-    } return sum;
+        // ss123123sd  
+    } return average;
 };
